@@ -2,7 +2,7 @@ from .. import *
 
 @app.on_message(commandx(["alive"]))
 async def alive_check(client, message):
-    await message.reply_text("**🥀 I Aᴍ Aʟɪᴠᴇ Mʏ Dᴇᴀʀ Rᴜᴅʀᴀ Mᴀsᴛᴇʀ ✨ ...**")
+    await message.reply_text("**🥀 I Aᴍ Aʟɪᴠᴇ Mʏ Dᴇᴀʀ Danger Mᴀsᴛᴇʀ ✨ ...**")
 
 
 
