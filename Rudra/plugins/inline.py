@@ -11,14 +11,14 @@ async def help_menu_logo(answer):
     if var.USERBOT_PICTURE:
         thumb_image = var.USERBOT_PICTURE
     else:
-        thumb_image = "https://telegra.ph/file/2a1a01a656b4ab766bad0.jpg"
+        thumb_image = "https://telegra.ph/file/38cd3cc80612836de010b.jpg"
     button = paginate_plugins(0, PLUGINS, "help")
     answer.append(
         InlineQueryResultPhoto(
             photo_url=f"{thumb_image}",
             title="🥀 Help Menu ✨",
             thumb_url=f"{thumb_image}",
-            description=f"🥀 Open Help Menu Of Rudra-Userbot ✨...",
+            description=f"🥀 Open Help Menu Of Danger-Userbot ✨...",
             caption=f"""
 **🥀 Welcome To Help Menu Of
 Piku Userbot » {__version__} ✨...
@@ -26,7 +26,7 @@ Piku Userbot » {__version__} ✨...
 Click On Below 🌺 Buttons To
 Get Userbot Commands.
 
-🌷Powered By : [RUDRA JAAT](https://t.me/RUDRA_JAAT).**
+🌷Powered By : [MR KING](https://t.me/l_MR_ll_KING_l).**
             """,
             reply_markup=InlineKeyboardMarkup(button),
         )
@@ -46,7 +46,7 @@ Rudra Userbot » {__version__} ✨...
 Click On Below 🌺 Buttons To
 Get Userbot Commands.
 
-🌷Powered By : [RUDRA JAAT](https://t.me/RUDRA_JAAT).**""",
+🌷Powered By : [MR KING](https://t.me/l_MR_ll_KING_l).**""",
             disable_web_page_preview=True
             ),
             reply_markup=InlineKeyboardMarkup(button),
