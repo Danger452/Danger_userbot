@@ -1,15 +1,13 @@
-<h2>Rudra-Userbot</h2>
-<p title="RUDRA-JAAT">Rudra is a powerful, advanced, multi-featured Telegram userbot.</p>
+<h2>Danger-Userbot</h2>
+<p title="DANGER">Danger is a powerful, advanced, multi-featured Telegram userbot.</p>
 
-<p align="center"><a href="https://t.me/RUDRA_JAAT"><img src="https://mallucampaign.in/images/img_1693670648.jpg"></a></p>
+<p align="center"><a href="https://t.me/l_MR_ll_KING_l"><img src="https://telegra.ph/file/38cd3cc80612836de010b.jpg"></a></p>
 
-![](Rudra/resorce/maintained.svg)
-![](Rudra/resource/license.svg)
 
 <h2>Deployment</h2>
 <p title="Deployment">You can use Rudra-Userbot through the cloud application platform Heroku.</p>
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/RUDRA-JAAT/Rudra-User-Bot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Danger452/Danger_userbot/tree/RUDRA)
 
 Or, simply run the following commands in your Vps,
 
@@ -37,11 +35,9 @@ cp Internal.env Internal && python3 -m Rudra
 
 
 <p align="center">
-<a href="https://telegram.me/RUDRA_JAAT"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://telegram.me/l_MR_ll_KING_l"><img src="https://img.shields.io/badge/-Telegram%20id-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 
-<p align="center">
-<a href="https://telegram.me/RUDRA_JAAT"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
-</p>
+
 
 
