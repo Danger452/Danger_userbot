@@ -1,14 +1,14 @@
 {
-    "name": "Rudra-Userbot",
-    "logo": "https://mallucampaign.in/images/img_1693670648.jpg",
-    "description": "Rudra-Userbot is a powerful, advanced, multi-featured Telegram userbot.",
+    "name": "Danger-Userbot",
+    "logo": "https://telegra.ph/file/38cd3cc80612836de010b.jpg",
+    "description": "Danger-Userbot is a powerful, advanced, multi-featured Telegram userbot.",
     "keywords": [
         "userbot",
         "musicbot",
         "videobot",
         "telegram"
     ],
-    "repository": "https://github.com/RUDRA-JAAT/Rudra-User-Bot",
+    "repository": "https://github.com/Danger452/Danger_userbot/tree/RUDRA",
     "stack": "container",
     "env": {
         "API_ID": {
