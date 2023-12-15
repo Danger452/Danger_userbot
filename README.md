@@ -3,7 +3,7 @@
   
 </p>
 
-align="center"><a href="https://t.me/l_MR_ll_KING_l"><img src="https://telegra.ph/file/9988526252f966854e9d3.jpg"></a></p>
+<align="center"><a href="https://t.me/l_MR_ll_KING_l"><img src="https://telegra.ph/file/9988526252f966854e9d3.jpg"></a></p>
 
 
 <h2>Deployment</h2>
