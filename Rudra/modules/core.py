@@ -42,13 +42,13 @@ except Exception as e:
 class Rudra(Client, PyTgCalls):
     def __init__(self):
         self.app = Client(
-            name = "Rudra",
+            name = "Danger",
             api_id = Config.API_ID,
             api_hash = Config.API_HASH,
             session_string = Config.STRING_SESSION,
         )
         self.ass = Client(
-            name = "Rudra",
+            name = "Danger",
             api_id = Config.API_ID,
             api_hash = Config.API_HASH,
             session_string = Config.SESSION_STRING,
@@ -76,9 +76,9 @@ class Rudra(Client, PyTgCalls):
         if self.app.id not in Config.SUDOERS:
             Config.SUDOERS.add(int(self.app.id))
         try:
-            await self.app.join_chat("RUDRA_JAAT")
-            await self.app.join_chat("RUDRA_JAAT")
-            await self.app.join_chat("RUDRA_JAAT")
+            await self.app.join_chat("ll_Duniya_mahakal_ki_ll")
+            await self.app.join_chat("ll_Duniya_mahakal_ki_ll")
+            await self.app.join_chat("ll_Duniya_mahakal_ki_ll")
         except:
             pass
         await self.app.send_message(Config.LOG_GROUP_ID, "**Userbot Started**")
@@ -91,9 +91,9 @@ class Rudra(Client, PyTgCalls):
             self.ass.mention = self.ass.me.mention
             self.ass.id = self.ass.me.id
             try:
-                await self.ass.join_chat("RUDRA_JAAT")
-                await self.ass.join_chat("RUDRA_JAAT")
-                await self.ass.join_chat("RUDRA_JAAT")
+                await self.ass.join_chat("ll_Duniya_mahakal_ki_ll")
+                await self.ass.join_chat("ll_Duniya_mahakal_ki_ll")
+                await self.ass.join_chat("ll_Duniya_mahakal_ki_ll")
             except:
                 pass
             try:
@@ -120,7 +120,7 @@ class Rudra(Client, PyTgCalls):
             await asyncio.sleep(1)
             await self.app.send_message(f"@botfather", f"@{self.bot.username}")
             await asyncio.sleep(1)
-            await self.app.send_message(f"@botfather", "🥀 𝐑𝐮𝐝𝐫𝐚 𝐔𝐬𝐞𝐫𝐁𝐨𝐭 ✨")
+            await self.app.send_message(f"@botfather", "🥀 𝐃𝐚𝐧𝐠𝐞𝐫 𝐔𝐬𝐞𝐫𝐁𝐨𝐭 ✨")
         except:
             pass
         try:
