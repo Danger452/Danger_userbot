@@ -60,7 +60,7 @@ Danger Userbot » {__version__} ✨...
 Click On Below 🌺 Buttons To
 Get Userbot Commands.
 
-🌷Powered By : [MR KING](https://t.me/l_MR_ll_KING_l).**"""
+🌷Powered By : [Danger](https://t.me/Danger601).**"""
     if plug_match:
         plugin = plug_match.group(1)
         text = (
