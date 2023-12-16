@@ -55,7 +55,7 @@ def inline_wrapper(func):
                         (
                             InlineQueryResultPhoto(
                                 photo_url=f"https://telegra.ph/file/38cd3cc80612836de010b.jpg",
-                                title="🥀 Rudra Userbot ✨",
+                                title="🥀 Danger Userbot ✨",
                                 thumb_url=f"https://telegra.ph/file/38cd3cc80612836de010b.jpg",
                                 description=f"🌷 Deploy Your Own Danger-Userbot 🌿...",
                                 caption=f"<b>🥀 Welcome › To › Danger 🌷\n✅ Userbot v2.0 ✨...</b>",
