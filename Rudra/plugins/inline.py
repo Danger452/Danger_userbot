@@ -26,7 +26,7 @@ Piku Userbot » {__version__} ✨...
 Click On Below 🌺 Buttons To
 Get Userbot Commands.
 
-🌷Powered By : [MR KING](https://t.me/l_MR_ll_KING_l).**
+🌷Powered By : [Danger](https://t.me/Danger601).**
             """,
             reply_markup=InlineKeyboardMarkup(button),
         )
@@ -41,12 +41,12 @@ async def help_menu_text(answer):
             title="🥀 Help Menu ✨",
             input_message_content=InputTextMessageContent(f"""
 **🥀 Welcome To Help Menu Of
-Rudra Userbot » {__version__} ✨...
+Danger Userbot » {__version__} ✨... 
 
 Click On Below 🌺 Buttons To
 Get Userbot Commands.
 
-🌷Powered By : [MR KING](https://t.me/l_MR_ll_KING_l).**""",
+🌷Powered By : [Danger](https://t.me/Danger601).**""",
             disable_web_page_preview=True
             ),
             reply_markup=InlineKeyboardMarkup(button),
