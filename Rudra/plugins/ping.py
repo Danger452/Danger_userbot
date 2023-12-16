@@ -13,7 +13,7 @@ async def alive_check(client, message):
 
 __NAME__ = "Ping"
 __MENU__ = f"""
-**🖤 CHECK KING USER BOT MADARCHOD...**
+**🖤 CHECK Danger USER BOT MADARCHOD...**
 
 **Example:** `.ping`
 """
