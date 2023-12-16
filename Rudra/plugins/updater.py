@@ -67,7 +67,7 @@ async def update_userbot(client, message):
         os.system(f"kill -9 {os.getpid()} && python3 -m Rudra")
         return
     else:
-        await message.edit(f"**🥀 KING Userbot Already\nUpdated To Latest 🔥 ...\n\n💕 For Any Query › Contact\nTo » @l_MR_ll_KING_l ✨ ...**")
+        await message.edit(f"**🥀 Danger Userbot Already\nUpdated To Latest 🔥 ...\n\n💕 For Any Query › Contact\nTo » @Danger601 ✨ ...**")
 
 __NAME__ = "Update"
 __MENU__ = f"""
