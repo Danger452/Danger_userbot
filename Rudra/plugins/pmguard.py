@@ -8,7 +8,7 @@ from .. import *
 from ..modules.data import approve, disapprove, is_approved
 
 MSG_PERMIT = """
-PM_SECURITY RUDRA-USERBOT
+PM_SECURITY DANGER-USERBOT
 
 {}
 ▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂
